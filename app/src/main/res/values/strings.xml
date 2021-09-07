@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentA">프래그먼트A</string>
+    <string name="fragmnetB">프래그먼트B</string>
+    <string name="fragmentC">프래그먼트C</string>
+    <string name="fragmentD">프래그먼트D</string>
+</resources>
